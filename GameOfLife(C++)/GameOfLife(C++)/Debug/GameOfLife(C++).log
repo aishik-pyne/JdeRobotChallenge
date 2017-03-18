@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\the guardian\google drive\codes\mrpt\gameoflife(c++)\gameoflife(c++)\main.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\the guardian\google drive\codes\mrpt\gameoflife(c++)\gameoflife(c++)\main.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\the guardian\google drive\codes\mrpt\gameoflife(c++)\gameoflife(c++)\main.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\the guardian\google drive\codes\mrpt\gameoflife(c++)\gameoflife(c++)\main.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\the guardian\google drive\codes\mrpt\gameoflife(c++)\gameoflife(c++)\main.cpp(131): warning C4018: '<': signed/unsigned mismatch
+  GameOfLife(C++).vcxproj -> C:\Users\The Guardian\Google Drive\Codes\MRPT\GameOfLife(C++)\Debug\GameOfLife(C++).exe
+  GameOfLife(C++).vcxproj -> C:\Users\The Guardian\Google Drive\Codes\MRPT\GameOfLife(C++)\Debug\GameOfLife(C++).pdb (Partial PDB)
