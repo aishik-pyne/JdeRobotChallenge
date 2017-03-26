@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Labrynth.dir/main.cpp.o  -o Labrynth 
